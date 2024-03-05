@@ -36,10 +36,6 @@
 
 💡 This dashboard packs a punch, offering actionable insights for strategic decision-making in the dynamic realm of retail.
 
-## Dashboard Preview
-
-[![Dashboard Preview](preview_image_link_here)](link_to_dashboard_online)
-
 ## Get Started
 
 1. Download the PBIX file from [here](https://lnkd.in/gSgbnSwv).
